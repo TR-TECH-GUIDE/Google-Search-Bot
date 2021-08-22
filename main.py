@@ -29,7 +29,7 @@ JOIN_BUTTON = [
         text='⚙ Join Updates Channel ⚙',
         url='https://telegram.me/SLBotsOfficial'
     )
-        InlineKeyboardButton(
+    InlineKeyboardButton(
         text='⚙ Developer ⚙',
         url='https://telegram.me/TharukRenuja'
     )
