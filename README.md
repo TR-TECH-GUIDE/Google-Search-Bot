@@ -58,7 +58,7 @@ python3 main.py
 ---
 
 ## Credits
-
+- [Fayas](https://github.com/FayasNoushad)
 - [Tharuk Renuja](https://github.com/TR-TECH-GUIDE)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Google API](https://api.abirhasan.wtf/google)
